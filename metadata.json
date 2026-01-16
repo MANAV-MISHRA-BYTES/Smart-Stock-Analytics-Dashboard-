@@ -1,0 +1,5 @@
+{
+  "name": "QuantPulse Smart Stock Analytics",
+  "description": "A sophisticated real-time stock analytics dashboard leveraging Gemini Search Grounding for live market data, news, and deep financial insights.",
+  "requestFramePermissions": []
+}
